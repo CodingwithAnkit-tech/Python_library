@@ -31,7 +31,7 @@ This repo is created to:
 - OpenCV – Computer vision
 - Streamlit – Web apps for ML & data
 - Requests – API handling
-- 
+  
 - BeautifulSoup – Web scraping
 
 ---
