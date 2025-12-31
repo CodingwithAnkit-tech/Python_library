@@ -27,6 +27,7 @@ This repo is created to:
 - Seaborn – Statistical data visualization
 - 
 - Scikit-learn – Machine learning
+- 
 - TensorFlow / PyTorch – Deep learning (basics)
 - 
 - OpenCV – Computer vision
