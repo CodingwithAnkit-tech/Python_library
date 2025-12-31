@@ -14,8 +14,7 @@ This repo is created to:
 - Practice library installation, imports, and basic examples
 - 
 - Serve as a quick reference for projects and interviews
-- 
-
+  
 ---
 
 ## 🛠 Libraries Covered
